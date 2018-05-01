@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sv-spring5-tutorial
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SVOLKOV
+Implementation-Vendor-Id: amdocs.com.test
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sv-spring5-tutorial
+Created-By: Maven Integration for Eclipse
+
